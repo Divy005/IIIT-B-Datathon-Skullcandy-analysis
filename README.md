@@ -10,11 +10,12 @@
 - **Focus**: Identifying and solving declining product performance issues
 
 ## 👥 Team Members
+- **Divy DOBARIYA** - Product Analysis & Modeling & Visualization
 - **Abdelrahman ELSHARKAWY** - Visualization & Data Processing
 - **Dilksh SHARMA** - Market Research & Strategy
-- **Divy DOBARIYA** - Product Analysis & Modeling & Visualization
-- **Elvis ZOLO** - Business Intelligence & Recommendations
 - **Nishanth KARAMSETTY** - Data Processing & Data Analysis 
+- **Elvis ZOLO** - Business Intelligence & Recommendations
+
 
 ## 🎯 Problem Statement
 **"Finding A Failing Product!"**
